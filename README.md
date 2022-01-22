@@ -3,7 +3,7 @@
 - Current strenghts are JavaScript, React, and Node.js
 - Very interested in video games and one day working in the gaming industry
 - Open to collaboration
-- 2021 goals: Contribute to and open source project and find the right developer role for me
+- 2022 goals: Contribute to and open source project and find the right developer role for me
 
 
 ### Contact me
