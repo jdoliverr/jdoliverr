@@ -1,4 +1,4 @@
-### Hi, I'm Jon and I am a new web developer looking to strenghten my skills and get more experience in the field.
+### Hi, I'm Jon and I am a web developer looking to strenghten my skills and get more experience in the field.
 
 - Current strenghts are JavaScript, React, and Node.js
 - Very interested in video games and one day working in the gaming industry
