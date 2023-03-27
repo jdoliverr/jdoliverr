@@ -9,4 +9,4 @@
 ### Contact me
 
 [linkedin][https://www.linkedin.com/in/jonathan-oliver-li/] <br />
-[Portfolio][https://jdoliverr.github.io/jono-portfolio/]
+[Portfolio][https://jdoliverfolio.netlify.app/]
